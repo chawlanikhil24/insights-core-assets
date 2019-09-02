@@ -86,6 +86,11 @@
             "symbolic_name": "date_utc"
         },
         {
+            "command": "/usr/bin/db2licm -l",
+            "pattern": [],
+            "symbolic_name": "db2licm_l"
+        },
+        {
             "command": "/bin/df -al",
             "pattern": [],
             "symbolic_name": "df__al"
